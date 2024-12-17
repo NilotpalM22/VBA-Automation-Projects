@@ -1,7 +1,4 @@
 # VBA-Automation-Projects
-Collection of VBA scripts for workflow automation and data analysis.
-
-# VBA Automation Projects
 
 This repository contains VBA (Visual Basic for Applications) projects for automating tasks and improving efficiency in Excel. Below is a summary of the scripts included:
 
